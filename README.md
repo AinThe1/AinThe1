@@ -1,5 +1,5 @@
 ## Greetings 👋
-Find out more about the projects: https://ainthe1.webflow.io/
+Find out more about the projects: https://ainone.webflow.io/
 <!--
 **AinThe1/AinThe1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
